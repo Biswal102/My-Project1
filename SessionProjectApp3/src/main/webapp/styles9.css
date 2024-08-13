@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+ 
+        .container {
+            display: flex;
+        }
+ 
+        .container-1 {
+            background: url(
+'https://m.media-amazon.com/images/I/81CTpXvzCHL._AC_UF894,1000_QL80_.jpg');
+            width: 295px;
+            height: 350px;
+            align-items: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            border: 0.25rem solid whitesmoke;
+            margin-left: 38%;
+            margin-top: 5%;
+            margin-right: 9%;
+        }
+ 
+        
